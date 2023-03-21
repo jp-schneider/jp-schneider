@@ -33,7 +33,7 @@ Within my research group, I supervise students in their coursework and theses. I
 
 # 
 
-![Jan Philipp Schneider's GitHub stats](https://github-readme-stats.vercel.app/api?username=jp-schneider&count_private=true&theme=algolia&show_icons=true)
+[![Jan Philipp Schneider's GitHub stats](https://github-readme-stats.vercel.app/api?username=jp-schneider&count_private=true&theme=algolia&show_icons=true)](https://github.com/jp-schneider)
 
 <!--
 **jp-schneider/jp-schneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
