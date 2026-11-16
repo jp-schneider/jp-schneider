@@ -35,7 +35,7 @@ I work on **implicit neural representations** for
   **J. P. Schneider**, M. Fatima, J. Lukasik, A. Kolb, M. Keuper, M. Möller  
   *ICML 2024* · [Paper](https://openreview.net/pdf?id=IaV6AgrTUp) · [Code](https://github.com/jp-schneider/awesome)  
 
-- **Implicit Representations for Image Segmentation**
+- **Implicit Representations for Image Segmentation**  
   **J. P. Schneider**, M. Fatima, J. Lukasik, A. Kolb, M. Keuper, M. Möller  
    UniReps Workshop @ NeurIPS 2023 [Paper](https://openreview.net/pdf?id=LSSiDy7fG1) · [Code](https://github.com/jp-schneider/awesome)  
 
