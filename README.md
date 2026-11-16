@@ -1,55 +1,69 @@
-### Hey there, I'm Philipp! 👋
+### Hi, I'm Philipp 👋
 
-[![Email](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=blue)](mailto://jan.schneider@uni-siegen.de)
+PhD researcher in the [Computer Vision Group](https://www.vsa.informatik.uni-siegen.de/) at the
+[University of Siegen](https://www.uni-siegen.de/start/), advised by
+[Prof. Michael Möller](https://www.vsa.informatik.uni-siegen.de/en/moeller-michael).
+I work on **implicit neural representations** for
+- 🎬 **dynamic scene decomposition & editing**: videos as graphs of editable neural atlases,
+- 🧩 **constrained image segmentation**: segmentations with guaranteed shape properties,
+- 🔬 **computational imaging**: Fourier Ptychographic Microscopy (FPM), jointly with the
+  [Chair for Computational Sensorics](https://www.cse.eti.uni-siegen.de/) (Prof. Ivo Ihrke).
+
+[![Email](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jan.schneider@uni-siegen.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-philipp-schneider/)
-[![Github](https://img.shields.io/github/followers/jp-schneider?label=Follow&style=social)](https://github.com/jp-schneider)
+[![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](<SCHOLAR_URL>)
 
-#
+---
 
-#### **Current Work** 🔭
+#### 📰 News
+- **2026** — *Direct Classification from FPM Measurements for Biological Screening* accepted at the **ECCV 2026 BioImage Computing Workshop**
+- **2026** — *PI-FPM* published in **Optics Express**
+- **2025** — *Neural Atlas Graphs* accepted at **NeurIPS 2025 as a Spotlight** ✨
+- **2024** — *Implicit Representations for Constrained Image Segmentation* at **ICML 2024**
 
-I am a Researcher and PhD student at the [University of Siegen](https://www.uni-siegen.de/start/) in the [Computer Vision Group](https://www.vsa.informatik.uni-siegen.de/) headed by [Prof. Michael Möller](https://www.vsa.informatik.uni-siegen.de/en/moeller-michael) and primarily working on the [Learning2Sense](https://www.learning2sense.de/start) research project🧑‍🎓.
+#### 📄 Publications
 
+**🎬 Dynamic scene representations**
 
-In this project, we are trying to better integrate the data acquisition of sensor systems with the subsequent data use. In the past, sensor systems were often developed independently of their later data use, especially not with regard to the use by machine learning methods. 
-The aim of the project is to close this gap between model and sensor by, for example, incorporating the parameters of the sensor system and its physics into the optimisation of the machine learning (ML) models, or by completely changing the way we record and process data. This should allow the ML models to better adapt to the real environment, which will ideally lead to better results.
+- **Neural Atlas Graphs for Dynamic Scene Decomposition and Editing**  
+  **J. P. Schneider**, P. S. Bisht, I. Chugunov, A. Kolb, M. Möller, F. Heide  
+  *NeurIPS 2025 (Spotlight)* · [Paper](https://arxiv.org/abs/2509.16336) · [Project](https://princeton-computational-imaging.github.io/nag/) · [Code](https://github.com/jp-schneider/nag)
 
-In this, my group is currently in a close collaboration with the [Chair for Computational Sensorics / Communication Engineering](https://www.cse.eti.uni-siegen.de/), working on the topic of [Fourier Ptychography](https://www.nature.com/articles/s42254-021-00280-y).
+**🧩 Constrained segmentation**
 
-#
+- **Implicit Representations for Constrained Image Segmentation**  
+  **J. P. Schneider**, M. Fatima, J. Lukasik, A. Kolb, M. Keuper, M. Möller  
+  *ICML 2024* · [Paper](https://openreview.net/pdf?id=IaV6AgrTUp) · [Code](https://github.com/jp-schneider/awesome)  
 
-#### **Education** 🎓
+- **Implicit Representations for Image Segmentation**
+  **J. P. Schneider**, M. Fatima, J. Lukasik, A. Kolb, M. Keuper, M. Möller  
+   UniReps Workshop @ NeurIPS 2023 [Paper](https://openreview.net/pdf?id=LSSiDy7fG1) · [Code](https://github.com/jp-schneider/awesome)  
 
-I started my profession with a bachelor's and master's degree in computer science at the [University of Siegen](https://www.uni-siegen.de/start/)🎓, in which I already dealt with the various methods of the buzzword AI. I was able to apply the knowledge I gained there through additional jobs in industry at various companies👨‍💼. You can find more on my [LinkedIn](https://www.linkedin.com/in/jan-philipp-schneider/) profile.
+**🔬 Fourier Ptychographic Microscopy**
 
-# 
+- **PI-FPM: Pupil Initialization for Fourier Ptychographic Microscopy Directly from Measurement Data**  
+  J. Meshreki, **J. P. Schneider**, O. Martorell, M. Möller, I. Ihrke  
+  *Optics Express 34(9), 2026* · [Paper](https://opg.optica.org/directpdfaccess/54ae85c8-2d35-40ee-906b078cf43838b3_590936/oe-34-9-16575.pdf?da=1&id=590936&seq=0&mobile=no)
+- **Direct Classification from Fourier Ptychographic Measurements for Biological Screening**  
+  K. Ahapov, J. Meshreki, **J. P. Schneider**, I. Ihrke, M. Möller  
+  *ECCV 2026 Workshop on BioImage Computing (BIC)* [Paper](https://openreview.net/pdf?id=tjRIY2cpNr)
+- **Direct Image Classification from Fourier Ptychographic Microscopy Measurements without Reconstruction**  
+  N. S. Agarwal, **J. P. Schneider**, K. V. Gandikota, S. M. Kazim, J. Meshreki, I. Ihrke, M. Möller  
+  *arXiv 2025* · [Paper](https://arxiv.org/abs/2505.05054)
+- **Vignetting Effects: A Tool to Characterize a Fourier Ptychographic Microscope**  
+  J. Meshreki, S. M. Kazim, **J. P. Schneider**, M. Möller, I. Ihrke  
+  *arXiv 2024* · [Paper](https://arxiv.org/abs/2404.11242)
 
-#### **Collaboration** 🤝
+<sub>Full list on [Google Scholar](<SCHOLAR_URL>).</sub>
 
-I am always open to scientific collaboration and like to brainstorm new ideas, preferably with a good cup of coffee☕! Just write me an [email](mailto://jan.schneider@uni-siegen.de)!
+#### 🛠️ Open Source
+- [**agent-devcontainer**](https://github.com/jp-schneider/agent-devcontainer): a hardened VS Code devcontainer template for running coding agents more safely
+- [**tools**](https://github.com/jp-schneider/tools): utilities and snippets I use across research projects
+- [**tiny-cuda-nn-float32**](https://github.com/jp-schneider/tiny-cuda-nn-float32): a fork of NVlabs/tiny-cuda-nn with float32 support, used in NAG
 
-#
+#### 🤝 Collaboration & Students
+I'm always happy to talk about research ideas, ideally over coffee ☕. **Students**: if you're
+interested in a thesis on these topics, [email me](mailto:jan.schneider@uni-siegen.de) with your
+CV and transcript of records.
 
-#### **Teaching & Student Supervision** 👨‍🏫
-
-Within my research group, I supervise students in their coursework and theses. If you are a student and interested in my topics, just send me an [email](mailto://jan.schneider@uni-siegen.de) with a CV, transcript of records and some information about yourself. I'll be happy to chat with you a bit and together we can find a topic with which you can bring your work to a good conclusion!
-
-
-# 
-
-<!--[![Jan Philipp Schneider's GitHub stats](https://github-readme-stats.vercel.app/api?username=jp-schneider&count_private=true&theme=algolia&show_icons=true)](https://github.com/jp-schneider)-->
-
-<!--
-**jp-schneider/jp-schneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>B.Sc. & M.Sc. Computer Science, University of Siegen · industry experience → [LinkedIn](https://www.linkedin.com/in/jan-philipp-schneider/) · project: [Learning2Sense](https://www.learning2sense.de/start)</sub>
